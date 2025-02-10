@@ -2,3 +2,4 @@ is -a
 cd 폴더명
 cat 파일명
 touch 파일명
+echo "print('hi~')" >>hello.py
